@@ -77,7 +77,7 @@ Automatically add the following tags to every newly launched EC2 instance:
 
 | Description                  | Screenshot |
 |-----------------------------|------------|
-| Amazon EventBridge Rules     | ![](Screenshots/Event bridge.png) |
+| Amazon EventBridge Rules     | ![](Screenshots/.png) |
 | EC2 Tags                     | ![](Screenshots/EC2%20Tags.png)                   |
 | IAM Role Permissions         | ![](Screenshots/IAM%20Role%20permissions.png)     |
 | Lambda Code                  | ![](Screenshots/Lambda%20Code.png)               |
